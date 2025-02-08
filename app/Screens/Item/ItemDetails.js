@@ -317,7 +317,7 @@ const ItemDetails = ({ navigation }) => {
                         </View>
                         <View style={{ flex: 1 }}>
                             <Button
-                                title="Make Offer1"
+                                title="Make Offer"
                             />
                         </View>
                     </View>
